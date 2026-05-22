@@ -15,7 +15,7 @@ This repository contains my Object-Oriented Programing practice in Python.
   - Clean project structure
 
   ## Practice Included
-  - practice problems performed in jupyter notebook
+  - practice problems solved in jupyter notebook
 
     ## Notes
   - handwritten notes also included for revision
